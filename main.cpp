@@ -11,11 +11,11 @@ int main()
 
   // get tablespoons //
   int tablespoons = teaspoons / 3;
-  int leftoverteaspoons = teaspoons % 3;
+  int leftoverTeaspoons = teaspoons % 3;
 
   // get cups //
   int cups = tablespoons / 16;
-  int leftovertablespoons = tablespoons % 16;
+  int leftoverTablespoons = tablespoons % 16;
 
   // get quarts //
   int quarts = cups / 4;
