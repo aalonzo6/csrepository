@@ -10,6 +10,6 @@ int main()
   cin >> tablespoons;
 
   //turn into tablespoons
-  tablespoons 
+  int tablespoons = 
   
 }
