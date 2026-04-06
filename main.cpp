@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
   cout << "enter tablespoons" << endl;
-  cin <<
+  int tablespoons
 }
