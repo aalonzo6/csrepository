@@ -22,7 +22,7 @@ int main()
   int leftoverCups = cups % 4;
 
   // give answer //
-  cout << "quarts: "
+  cout << "quarts: " << quarts
 
   
   
