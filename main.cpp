@@ -13,7 +13,7 @@ int main()
   int tablespoons = teaspoons / 3;
   cout << tablespoons << endl;
   int leftoverTablespoons = teaspoons % 3;
-  cout << tab
+  cout << lefto
   
   return 0;
   
