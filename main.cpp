@@ -10,7 +10,6 @@ int main()
   cin >> teaspoons;
 
   //turn into tablespoons
-  int tablespoons;
-  tablespoons = teaspoons / 3;
+  int tablespoons = teaspoons / 3;
   
 }
