@@ -8,5 +8,4 @@ int main()
   int tablespoons;
   cin >> tablespoons;
   cout << tablespoons << endl;
-  
 }
