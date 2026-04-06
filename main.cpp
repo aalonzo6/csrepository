@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
   // get user input //
-  cout << "enter teaspoons: ";
+  cout << "Enter teaspoons: ";
   int teaspoons;
   cin >> teaspoons;
 
@@ -22,8 +22,8 @@ int main()
   int leftoverCups = cups % 4;
 
   // give answer //
-  cout << "quarts: " << quarts << endl;
-  cout << "Cups"
+  cout << "Quarts: " << quarts << endl;
+  cout << "Cups: "
 
   
   
