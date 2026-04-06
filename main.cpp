@@ -12,7 +12,7 @@ int main()
   //turn into tablespoons
   int tablespoons = teaspoons / 3;
   cout << tablespoons << endl;
-  
+  int leftoverTablespoons = teaspoons %
   
   return 0;
   
