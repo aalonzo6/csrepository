@@ -9,11 +9,11 @@ int main()
   int teaspoons;
   cin >> teaspoons;
 
-  //turn into tablespoons
+  //get tablespoons
   int tablespoons = teaspoons / 3;
   int leftoverTablespoons = teaspoons % 3;
 
-  //ge
+  //get 
   
   
   return 0;
