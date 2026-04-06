@@ -19,7 +19,7 @@ int main()
 
   // get quarts //
   int quarts = cups / 4;
-  int leftover
+  int leftoverCups
 
   
   
