@@ -6,8 +6,8 @@ int main()
 {
   //get user input
   cout << "enter teaspoons: ";
-  int tealespoons;
-  cin >> tealespoons;
+  int teaspoons;
+  cin >> teaspoons;
 
   //turn into tablespoons
   int tablespoons = 
