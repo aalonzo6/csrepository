@@ -4,12 +4,14 @@ using namespace std;
 
 int main()
 {
-  // get user input
+  // get user input //
   cout << "enter teaspoons: ";
   int teaspoons;
   cin >> teaspoons;
 
-  //
+  // get tablespoons //
+
+  
  
 
   
