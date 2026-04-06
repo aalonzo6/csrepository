@@ -13,8 +13,6 @@ int main()
   int tablespoons = teaspoons / 3;
   int leftoverTablespoons = teaspoons % 3;
 
-  //get cups
-  int cups = 
   
   
   return 0;
