@@ -18,7 +18,8 @@ int main()
   int leftovertablespoons = tablespoons % 16;
 
   // get quarts //
-  int quarts = cups / 4
+  int quarts = cups / 4;
+  int leftover
 
   
   
