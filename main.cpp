@@ -9,12 +9,7 @@ int main()
   int teaspoons;
   cin >> teaspoons;
 
-  //get quarts ()
-
-
-  //get cups
-
-  //get tablespoons
+ 
  
 
   
