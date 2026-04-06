@@ -10,8 +10,8 @@ int main()
   cin >> teaspoons;
 
   // get tablespoons //
-  int tablespoons = teaspoons / 3
-  
+  int tablespoons = teaspoons / 3;
+  int leftover
 
 
   // get cups //
