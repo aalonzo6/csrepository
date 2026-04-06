@@ -5,9 +5,9 @@ using namespace std;
 int main()
 {
   //get user input
-  cout << "enter tablespoons: ";
-  int tablespoons;
-  cin >> tablespoons;
+  cout << "enter teaspoons: ";
+  int tealespoons;
+  cin >> tealespoons;
 
   //turn into tablespoons
   int tablespoons = 
