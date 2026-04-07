@@ -23,7 +23,7 @@ int main()
 
   // give answer //
   cout << "Quarts: " << quarts << endl;
-  cout << "Cups: " << cups << endl;
+  cout << "Cups: " << left << endl;
 
   
   
