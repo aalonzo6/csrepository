@@ -25,7 +25,7 @@ int main()
   cout << "Quarts: " << quarts << endl;
   cout << "Cups: " << leftoverCups << endl;
   cout << "Tablespoons: " << leftoverTablespoons << endl;
-  cout << "T"
+  cout << "Teaspoons: " << 
 
   
   
