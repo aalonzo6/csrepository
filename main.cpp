@@ -28,5 +28,4 @@ int main()
   cout << "Teaspoons: " << leftoverTeaspoons << endl;
   
   return 0;
-  
 }
