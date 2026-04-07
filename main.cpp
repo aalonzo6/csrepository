@@ -26,8 +26,6 @@ int main()
   cout << "Cups: " << leftoverCups << endl;
   cout << "Tablespoons: " << leftoverTablespoons << endl;
   cout << "Teaspoons: " << leftoverTeaspoons << endl;
-
-  
   
   return 0;
   
